@@ -10,7 +10,7 @@ const Footer = () => {
         <h5> All Rights Reserved </h5>
       </div>
       <a href="https://github.com/singhutkarshh/Shopkart">Github Source code</a>
-      <h4>Developed by :- UTKARSH SINGH</h4>
+      <h4>Developed by :- KOPAL LITAURIYA</h4>
     </Wrapper>
   );
 };
